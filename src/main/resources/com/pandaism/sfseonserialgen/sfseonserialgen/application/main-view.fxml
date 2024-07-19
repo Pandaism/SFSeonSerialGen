@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<BorderPane xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.pandaism.sfseonserialgen.sfseonserialgen.application.SFSeonSerialGenController">
+    <top>
+        <MenuBar>
+            <Menu text="File">
+                <MenuItem text="Create Part ID" onAction="#onCreatePartIDClick"/>
+                <MenuItem text="Search Built Serial Number" onAction="#onSearchBuiltSerialNumbers"/>
+            </Menu>
+            <Menu text="Help">
+                <MenuItem text="About" onAction="#onAbout"/>
+            </Menu>
+        </MenuBar>
+    </top>
+    <center>
+        <VBox spacing="10">
+            <padding>
+                <Insets left="20" right="20" top="10"/>
+            </padding>
+            <Label text="Part ID"/>
+            <ComboBox fx:id="partIDComboBox" prefWidth="240" maxWidth="240" minWidth="240"/>
+
+            <HBox spacing="20">
+                <VBox spacing="10">
+                    <Label text="Assignee"/>
+                    <TextField fx:id="assigneeTextField" prefWidth="100" maxWidth="100" minWidth="100"/>
+                </VBox>
+                <VBox spacing="10">
+                    <Label text="Work Order"/>
+                    <TextField fx:id="workOrderTextField" prefWidth="100" maxWidth="100" minWidth="100"/>
+                </VBox>
+            </HBox>
+
+            <Label text="Quantity"/>
+            <TextField fx:id="quantityTextField" prefWidth="240" maxWidth="240" minWidth="240"/>
+        </VBox>
+    </center>
+    <bottom>
+        <VBox alignment="CENTER">
+            <padding>
+                <Insets bottom="10"/>
+            </padding>
+            <Button text="Generate" onAction="#onSerialGeneration"/>
+            <Label fx:id="statusLabel"/>
+        </VBox>
+    </bottom>
+
+</BorderPane>

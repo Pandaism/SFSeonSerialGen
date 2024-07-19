@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d270f5ee-a657-4f19-9a91-82347802f0bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandaism/sfseonserialgen/sfseonserialgen/SFSeonSerialGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandaism/sfseonserialgen/sfseonserialgen/application/SFSeonSerialGenApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandaism/sfseonserialgen/sfseonserialgen/application/SFSeonSerialGenController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandaism/sfseonserialgen/sfseonserialgen/application/ui/CreateNewPartIDController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandaism/sfseonserialgen/sfseonserialgen/application/ui/CreateNewPartIDScene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandaism/sfseonserialgen/sfseonserialgen/application/ui/GeneratedSerialController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandaism/sfseonserialgen/sfseonserialgen/application/ui/GeneratedSerialScene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandaism/sfseonserialgen/sfseonserialgen/application/ui/SearchBuiltSerialNumberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandaism/sfseonserialgen/sfseonserialgen/application/ui/SearchBuiltSerialNumberScene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandaism/sfseonserialgen/sfseonserialgen/util/AccessDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandaism/sfseonserialgen/sfseonserialgen/util/BackupFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pandaism/sfseonserialgen/sfseonserialgen/util/SerialNumberBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/pandaism/sfseonserialgen/sfseonserialgen/application/main-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/pandaism/sfseonserialgen/sfseonserialgen/application/ui/create-new-part-id-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/pandaism/sfseonserialgen/sfseonserialgen/application/ui/search-built-serial-numbers-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2hIIPPcTZcfaONQpj0AHR3fAD3O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.SFSeonSerialGen [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SFSeonSerialGen [jar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SFSeonSerialGen [jlink].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SFSeonSerialGen [runShadow].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SFSeonSerialGen [run].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.SFSeonSerialGen [shadowJar].executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mike.Nguyen/Documents/Programming/SFSeonSerialGen&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mike.Nguyen\Documents\Programming\SFSeonSerialGen" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="X:\Mike\Programming Projects\SFSeonSerialGen\src\main\resources\com\pandaism\sfseonserialgen\sfseonserialgen\application\ui" />
+      <recent name="X:\Mike\Programming Projects\SFSeonSerialGen\src\main\resources\com\pandaism\sfseonserialgen\sfseonserialgen\application" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.pandaism.sfseonserialgen.sfseonserialgen.application.ui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.SFSeonSerialGen [shadowJar]">
+    <configuration name="SFSeonSerialGen [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="SFSeonSerialGen [jlink]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jlink" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="SFSeonSerialGen [runShadow]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runShadow" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="SFSeonSerialGen [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="SFSeonSerialGen [shadowJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="shadowJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.SFSeonSerialGen [shadowJar]" />
+        <item itemvalue="Gradle.SFSeonSerialGen [runShadow]" />
+        <item itemvalue="Gradle.SFSeonSerialGen [run]" />
+        <item itemvalue="Gradle.SFSeonSerialGen [jar]" />
+        <item itemvalue="Gradle.SFSeonSerialGen [jlink]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d270f5ee-a657-4f19-9a91-82347802f0bc" name="Changes" comment="" />
+      <created>1717275152742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717275152742</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<VBox spacing="20" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.pandaism.sfseonserialgen.sfseonserialgen.application.ui.SearchBuiltSerialNumberController">
+    <padding>
+        <Insets top="20" bottom="20" left="20" right="20"/>
+    </padding>
+    <VBox spacing="10">
+        <Label text="Search Area"/>
+        <TextArea fx:id="searchField"/>
+    </VBox>
+    <Button text="Search" onAction="#onSearch"/>
+</VBox>

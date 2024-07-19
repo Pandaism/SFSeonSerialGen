@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.Button?>
+<?import javafx.geometry.Insets?>
+<VBox spacing="20" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.pandaism.sfseonserialgen.sfseonserialgen.application.ui.CreateNewPartIDController">
+    <padding>
+        <Insets top="20" bottom="20" left="20" right="20"/>
+    </padding>
+    <HBox spacing="10">
+        <Label text="Available Identifier"/>
+        <Label fx:id="identifierLabel"/>
+    </HBox>
+    <VBox spacing="10">
+        <Label text="Part ID to Create"/>
+        <TextField fx:id="partIDField"/>
+    </VBox>
+    <Button text="Create" onAction="#createNewIdentifier"/>
+</VBox>
